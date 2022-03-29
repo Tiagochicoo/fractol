@@ -9,6 +9,8 @@ This project is about creating graphically beautiful fractals._
 Version: 2
 ```
 
+![fractol](https://upload.wikimedia.org/wikipedia/commons/2/21/Mandel_zoom_00_mandelbrot_set.jpg)
+
 ## Contents
 
 - I Foreword
